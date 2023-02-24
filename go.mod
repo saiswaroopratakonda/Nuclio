@@ -76,7 +76,7 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20180713172427-0f11257a8a25
-	k8s.io/apimachinery v0.0.0-20180619225948-e386b2658ed2
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v7.0.0+incompatible
 	pack.ag/amqp v0.12.5
 )
